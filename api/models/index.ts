@@ -1,0 +1,6 @@
+export { default as Board } from './Board'
+export { default as Comment } from './Comment'
+export { default as Group } from './Group'
+export { default as Post } from './Post'
+export { default as User } from './User'
+export { default as Notice } from './Notice'

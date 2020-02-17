@@ -1,0 +1,326 @@
+[
+  {
+    "boardId": "1",
+    "boardName": "넥메",
+    "notice": "넥메인과 나누고 싶은 이야기",
+    "groupId": "1",
+    "limitGender": "",
+    "order": "1",
+    "updatedAt": "2014-03-28 10:22:32"
+  },
+  {
+    "boardId": "2",
+    "boardName": "알림",
+    "notice": "모두에게 공지하고 싶은 이야기",
+    "groupId": "1",
+    "limitGender": "",
+    "order": "2",
+    "updatedAt": "2014-01-12 21:01:49"
+  },
+  {
+    "boardId": "3",
+    "boardName": "학생",
+    "notice": "예비의료인과 나누는 이야기",
+    "groupId": "1",
+    "limitGender": "",
+    "order": "3",
+    "updatedAt": "2014-01-12 21:01:58"
+  },
+  {
+    "boardId": "4",
+    "boardName": "전공의",
+    "notice": "전공의와 나누는 이야기",
+    "groupId": "1",
+    "limitGender": "",
+    "order": "5",
+    "updatedAt": "2014-01-12 21:02:05"
+  },
+  {
+    "boardId": "5",
+    "boardName": "전문의",
+    "notice": "전문의와 나누는 이야기",
+    "groupId": "1",
+    "limitGender": "",
+    "order": "6",
+    "updatedAt": "2014-01-12 21:02:11"
+  },
+  {
+    "boardId": "6",
+    "boardName": "머니",
+    "notice": "우라 모두의 관심사, 금융 이야기",
+    "groupId": "1",
+    "limitGender": "",
+    "order": "7",
+    "updatedAt": "2014-01-12 21:03:01"
+  },
+  {
+    "boardId": "7",
+    "boardName": "연애",
+    "notice": "우리 모두의 관심사, 연애 이야기",
+    "groupId": "1",
+    "limitGender": "",
+    "order": "8",
+    "updatedAt": "2014-01-12 21:02:53"
+  },
+  {
+    "boardId": "9",
+    "boardName": "과선택",
+    "notice": "무슨 과를 할 것인가",
+    "groupId": "2",
+    "limitGender": "",
+    "order": "1",
+    "updatedAt": "2017-02-01 14:23:46"
+  },
+  {
+    "boardId": "10",
+    "boardName": "병원선택",
+    "notice": "병원 정보 교류",
+    "groupId": "2",
+    "limitGender": "",
+    "order": "2",
+    "updatedAt": "2017-02-01 14:23:50"
+  },
+  {
+    "boardId": "12",
+    "boardName": "군대",
+    "notice": "공보의, 군의관 등 군 복무 관련",
+    "groupId": "2",
+    "limitGender": "",
+    "order": "4",
+    "updatedAt": "2014-01-12 21:04:24"
+  },
+  {
+    "boardId": "13",
+    "boardName": "로컬",
+    "notice": "로컬 진로 상담",
+    "groupId": "2",
+    "limitGender": "",
+    "order": "5",
+    "updatedAt": "2014-01-12 21:04:31"
+  },
+  {
+    "boardId": "14",
+    "boardName": "정보글",
+    "notice": "병원 정보를 나눠요",
+    "groupId": "2",
+    "limitGender": "",
+    "order": "6",
+    "updatedAt": "2015-01-23 09:27:36"
+  },
+  {
+    "boardId": "15",
+    "boardName": "기초기타",
+    "notice": "기초의학 진로 상담",
+    "groupId": "2",
+    "limitGender": "",
+    "order": "7",
+    "updatedAt": "2017-01-11 16:23:42"
+  },
+  {
+    "boardId": "16",
+    "boardName": "국시",
+    "notice": "국시관련, 또는 학생 수준 질문",
+    "groupId": "3",
+    "limitGender": "",
+    "order": "1",
+    "updatedAt": "2014-01-12 22:00:22"
+  },
+  {
+    "boardId": "17",
+    "boardName": "실기",
+    "notice": "실기 관련 질문",
+    "groupId": "3",
+    "limitGender": "",
+    "order": "2",
+    "updatedAt": "2014-01-12 21:05:00"
+  },
+  {
+    "boardId": "18",
+    "boardName": "교재",
+    "notice": "교재 관련 질문",
+    "groupId": "3",
+    "limitGender": "",
+    "order": "3",
+    "updatedAt": "2014-01-12 21:05:04"
+  },
+  {
+    "boardId": "19",
+    "boardName": "시험후기",
+    "notice": "시험을 본 뒤의 후기",
+    "groupId": "3",
+    "limitGender": "",
+    "order": "4",
+    "updatedAt": "2014-01-12 21:05:15"
+  },
+  {
+    "boardId": "20",
+    "boardName": "인턴",
+    "notice": "인턴 관련 질문",
+    "groupId": "3",
+    "limitGender": "",
+    "order": "5",
+    "updatedAt": "2014-01-12 21:05:24"
+  },
+  {
+    "boardId": "21",
+    "boardName": "전공의",
+    "notice": "전공의 관련 질문",
+    "groupId": "3",
+    "limitGender": "",
+    "order": "6",
+    "updatedAt": "2014-01-12 21:05:29"
+  },
+  {
+    "boardId": "22",
+    "boardName": "컨설트",
+    "notice": "실제 환자를 보면서 느낀, 또는 본인의 증상에 대한 궁금증",
+    "groupId": "3",
+    "limitGender": "",
+    "order": "7",
+    "updatedAt": "2014-03-28 10:23:36"
+  },
+  {
+    "boardId": "23",
+    "boardName": "기타질문",
+    "notice": "다른 질문은 여기로",
+    "groupId": "3",
+    "limitGender": "",
+    "order": "8",
+    "updatedAt": "2014-01-12 21:05:54"
+  },
+  {
+    "boardId": "24",
+    "boardName": "문제풀",
+    "notice": "여러가지 시험 문제 자료 공유",
+    "groupId": "4",
+    "limitGender": "",
+    "order": "1",
+    "updatedAt": "2014-01-12 21:06:08"
+  },
+  {
+    "boardId": "25",
+    "boardName": "정리노트",
+    "notice": "내가 만든 정리 노트 공유",
+    "groupId": "4",
+    "limitGender": "",
+    "order": "2",
+    "updatedAt": "2014-01-12 21:06:14"
+  },
+  {
+    "boardId": "26",
+    "boardName": "기타자료",
+    "notice": "다른 의학 관련 자료",
+    "groupId": "4",
+    "limitGender": "",
+    "order": "3",
+    "updatedAt": "2014-01-12 21:06:20"
+  },
+  {
+    "boardId": "27",
+    "boardName": "원격의료",
+    "notice": "원격의료 관련 토론",
+    "groupId": "5",
+    "limitGender": "",
+    "order": "1",
+    "updatedAt": "2014-01-12 21:06:29"
+  },
+  {
+    "boardId": "28",
+    "boardName": "전공의유급",
+    "notice": "전공의 유급제 관련 토론",
+    "groupId": "5",
+    "limitGender": "",
+    "order": "2",
+    "updatedAt": "2014-01-12 21:06:34"
+  },
+  {
+    "boardId": "29",
+    "boardName": "기타논의",
+    "notice": "다른 주제의 논란 예상글은 여기로, 주제 추가를 원한다면 관리자에게 연락",
+    "groupId": "5",
+    "limitGender": "",
+    "order": "3",
+    "updatedAt": "2014-01-12 21:07:03"
+  },
+  {
+    "boardId": "30",
+    "boardName": "남성",
+    "notice": "남의들만의 공간(여성회원 열람 권한 없음)",
+    "groupId": "1",
+    "limitGender": "M",
+    "order": "10",
+    "updatedAt": "2014-01-12 21:07:25"
+  },
+  {
+    "boardId": "31",
+    "boardName": "여성",
+    "notice": "여의들만의 공간(남성회원 열람 권한 없음)",
+    "groupId": "1",
+    "limitGender": "F",
+    "order": "11",
+    "updatedAt": "2014-01-12 21:07:45"
+  },
+  {
+    "boardId": "32",
+    "boardName": "인턴",
+    "notice": "인톤들의 이야기",
+    "groupId": "1",
+    "limitGender": "",
+    "order": "4",
+    "updatedAt": "2014-01-12 21:08:02"
+  },
+  {
+    "boardId": "33",
+    "boardName": "삽니다",
+    "notice": "사고 싶은 물건",
+    "groupId": "6",
+    "limitGender": "",
+    "order": "1",
+    "updatedAt": "2014-01-12 21:08:08"
+  },
+  {
+    "boardId": "34",
+    "boardName": "팝니다",
+    "notice": "팔고 싶은 물건",
+    "groupId": "6",
+    "limitGender": "",
+    "order": "2",
+    "updatedAt": "2014-01-12 21:08:12"
+  },
+  {
+    "boardId": "35",
+    "boardName": "나눔",
+    "notice": "내게 필요 없지만 누군가에겐가 큰 도움이 될지도 모르는 물건",
+    "groupId": "6",
+    "limitGender": "",
+    "order": "3",
+    "updatedAt": "2014-03-11 21:15:54"
+  },
+  {
+    "boardId": "36",
+    "boardName": "해외",
+    "notice": "해외 의사생활, USMLE 관련 이야기",
+    "groupId": "2",
+    "limitGender": "",
+    "order": "8",
+    "updatedAt": "2014-02-24 14:13:51"
+  },
+  {
+    "boardId": "37",
+    "boardName": "자료요청",
+    "notice": "꼭 필요한 자료가 있는데 도저희 구할 수 없을 땐 역사 넥메!",
+    "groupId": "4",
+    "limitGender": "",
+    "order": "4",
+    "updatedAt": "2014-03-07 11:58:25"
+  },
+  {
+    "boardId": "38",
+    "boardName": "모셔요",
+    "notice": "구인글",
+    "groupId": "2",
+    "limitGender": "",
+    "order": "9",
+    "updatedAt": "2014-05-22 12:33:13"
+  }
+]

@@ -1,0 +1,40 @@
+# OS generated
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# dotenv
+.env
+.env.production
+
+# jest
+coverage
+
+# Next
+.next/
+out
+
+# Node
+node_modules/
+npm-debug.log
+yarn-error.log
+
+# pm2
+.pm2/
+
+# VSCode
+.vscode/
+
+# Vim
+*.swp
+*.swo
+
+# WebStorm
+.idea/
+
+# Custom
+tslint.log

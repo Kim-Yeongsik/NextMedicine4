@@ -1,0 +1,15 @@
+{
+  "apps": [
+    {
+      "cwd": "./",
+      "env": {
+        "NODE_ENV": "production"
+      },
+      "exec_mode": "cluster",
+      "instances": 0,
+      "name": "next-medicine-4-api",
+      "script": "dist/index.js",
+      "watch": false
+    }
+  ]
+}

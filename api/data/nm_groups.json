@@ -1,0 +1,38 @@
+[
+  {
+    "groupId": "1",
+    "groupName": "친목",
+    "order": "1",
+    "addedAt": "2014-01-03 20:36:03"
+  },
+  {
+    "groupId": "2",
+    "groupName": "진로",
+    "order": "2",
+    "addedAt": "2014-01-03 20:36:03"
+  },
+  {
+    "groupId": "3",
+    "groupName": "고진선처",
+    "order": "3",
+    "addedAt": "2014-01-03 20:36:33"
+  },
+  {
+    "groupId": "4",
+    "groupName": "자료실",
+    "order": "4",
+    "addedAt": "2014-01-03 20:42:40"
+  },
+  {
+    "groupId": "5",
+    "groupName": "토론",
+    "order": "5",
+    "addedAt": "2014-01-12 16:43:39"
+  },
+  {
+    "groupId": "6",
+    "groupName": "장터",
+    "order": "6",
+    "addedAt": "2014-01-12 13:39:21"
+  }
+]
