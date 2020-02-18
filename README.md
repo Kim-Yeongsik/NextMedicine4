@@ -23,3 +23,11 @@ React Material UI를 활용하여 제작
 
 ![Next Medicine4_04](https://user-images.githubusercontent.com/61033907/74711485-64888880-5267-11ea-8e04-beb74ddbe4e5.PNG)
 
+Ⅲ.Board style
+
+![Next Medicine4_05](https://user-images.githubusercontent.com/61033907/74712033-bc73bf00-5268-11ea-9314-e385569cef4c.PNG)
+
+![Next Medicine4_06](https://user-images.githubusercontent.com/61033907/74712035-bd0c5580-5268-11ea-9af4-d437b32f8bc6.PNG)
+
+![Next Medicine4_07](https://user-images.githubusercontent.com/61033907/74712038-bda4ec00-5268-11ea-9134-bebed6714590.PNG)
+
