@@ -36,7 +36,7 @@
     "helmet": "^3.20.0",
     "immutability-helper": "^3.0.1",
     "lodash": "^4.17.15",
-    "markdown-to-jsx": "^6.10.2",
+    "markdown-to-jsx": "^6.11.4",
     "material-ui-flat-pagination": "^3.2.0",
     "mobx": "^5.13.0",
     "mobx-react": "^6.1.1",
